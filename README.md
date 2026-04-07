@@ -1,9 +1,46 @@
 <h1 align="center">Hi 👋, I'm Nahid Ahamed Ridoy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Web Development**
-
 - 📫 How to reach me **nahidahamedridoy@gmail.com**
+
+💻 Frontend Developer | 🎨 UI Enthusiast | 🚀 Learning Everyday
+
+---
+
+## 🚀 About Me
+- 🌱 I’m currently learning **React & Modern JavaScript**
+- 💡 Interested in **Web Development & UI/UX Design**
+- 🎯 Goal: Become a **Full Stack Developer**
+- ⚡ Fun fact: I love building clean and responsive UI
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Vite
+
+---
+
+## 📊 GitHub Stats
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+---
+---
+
+## 🧠 Currently Working On
+- Improving React skills
+- Building real-world projects
+- Learning backend basics
+
+---
+
+⭐ *Feel free to check out my repositories and give a star!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
