@@ -5,6 +5,10 @@
 
 💻 Frontend Developer | 🎨 UI Enthusiast | 🚀 Learning Everyday
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nahidahamedridoy/Nahidahamedridoy/main/banner.png" />
+</p>
+
 ---
 
 ## 🚀 About Me
