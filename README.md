@@ -5,6 +5,7 @@
 
 💻 Frontend Developer | 🎨 UI Enthusiast | 🚀 Learning Everyday
 
+<img width="1297" height="491" alt="image" src="https://github.com/user-attachments/assets/5ff9b116-400c-4908-87c9-09b3fcd3aa85" />
 
 ---
 
