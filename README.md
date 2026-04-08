@@ -3,9 +3,9 @@
 
 - 📫 How to reach me **nahidahamedridoy@gmail.com**
 
-💻 Frontend Developer | 🎨 UI Enthusiast | 🚀 Learning Everyday
+- <img width="1536" height="1024" alt="Nahid Ahamed Ridoy - Web Developer" src="https://github.com/user-attachments/assets/14f261a6-47bd-4d9c-96ff-661a09a8aeb1" />
 
-<img width="1297" height="491" alt="image" src="https://github.com/user-attachments/assets/5ff9b116-400c-4908-87c9-09b3fcd3aa85" />
+💻 Frontend Developer | 🎨 UI Enthusiast | 🚀 Learning Everyday
 
 ---
 
