@@ -49,9 +49,9 @@ My goal is to build impactful software, continuously improve my technical skills
 
 | Language | Proficiency |
 |----------|-------------|
-| 🇧🇩 Bengali | Native |
-| 🇬🇧 English | Professional Working |
-| 🇮🇳 Hindi | Conversational |
+|  Bengali | Native |
+|  English | Professional Working |
+|  Hindi | Conversational |
 
 ---
 
