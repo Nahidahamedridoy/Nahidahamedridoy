@@ -85,13 +85,6 @@ Full-stack rental platform where users can explore properties, book rooms, and m
 ## 🌐 Portfolio Website
 My personal developer portfolio showcasing my skills, projects and experience.
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github.com/Nahidahamedridoy/Nahidahamedridoy/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
