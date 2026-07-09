@@ -1,43 +1,162 @@
-<h1 align="center">Hi 👋, I'm Nahid Ahamed Ridoy</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-- 📫 How to reach me **nahidahamedridoy@gmail.com**
-
-- <img width="1536" height="1024" alt="Nahid Ahamed Ridoy - Web Developer" src="https://github.com/user-attachments/assets/14f261a6-47bd-4d9c-96ff-661a09a8aeb1" />
-
-💻 Frontend Developer | 🎨 UI Enthusiast | 🚀 Learning Everyday
-
----
-
-## 🚀 About Me
-- 🌱 I’m currently learning **React & Modern JavaScript**
-- 💡 Interested in **Web Development & UI/UX Design**
-- 🎯 Goal: Become a **Full Stack Developer**
-- ⚡ Fun fact: I love building clean and responsive UI
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, Vite
-
----
-
-## 🧠 Currently Working On
-- Improving React skills
-- Building real-world projects
-- Learning backend basics
-
----
-
-⭐ *Feel free to check out my repositories and give a star!*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/nahid-ahamed-ridoy-0b78803a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nahid-ahamed-ridoy-0b78803a4" height="30" width="40" /></a>
-<a href="https://fb.com/ridoy.ahmed.723202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridoy.ahmed.723202" height="30" width="40" /></a>
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Nahid Ahamed Ridoy Banner" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Nahid Ahamed Ridoy</h1>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Passionate About Building Modern Web Applications</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+# 👋 About Me
+
+- 💻 I'm currently building **Modern MERN Stack Applications**
+- ⚛️ Working with **React.js, Next.js, Tailwind CSS & HeroUI**
+- 🌱 Currently learning **Node.js, Express.js, MongoDB & Advanced Next.js**
+- 🚀 Passionate about **Frontend Development & UI/UX**
+- 💬 Ask me about **React, Next.js, JavaScript, Tailwind CSS & MERN Stack**
+- 🎯 Goal: Become a Professional **Full Stack Developer**
+- 📫 Reach me at **nahidahamedridoy@gmail.com**
+
+---
+
+# 🌐 Portfolio & Socials
+
+<p align="left">
+
+<a href="https://linkedin.com/in/nahid-ahamed-ridoy-0b78803a4">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://facebook.com/ridoy.ahmed.723202">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="mailto:nahidahamedridoy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Technology Stack
+
+### 🚀 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏠 Property Rental & Booking Platform
+
+A modern full-stack Property Rental application built with **Next.js, MongoDB and Express.js**
+
+### 📚 StudyNook
+
+A Full Stack Study Room Booking platform with secure authentication and booking management.
+
+### 🛍️ SummerCart
+
+Modern Ecommerce Application built using React.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10"/>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ☕ Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
