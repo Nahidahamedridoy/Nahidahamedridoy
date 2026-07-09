@@ -27,6 +27,20 @@ Hi, I'm **Nahid Ahamed Ridoy**, a passionate Full-stack Developer specializing i
 
 ---
 
+## 🗣️ Languages I Speak
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bengali-Native%20%2F%20Mother%20Tongue-E63946?style=for-the-badge" alt="Bengali"/>
+  <img src="https://img.shields.io/badge/English-Professional%20Working-1D3557?style=for-the-badge" alt="English"/>
+  <img src="https://img.shields.io/badge/Hindi-Conversational-457B9D?style=for-the-badge" alt="Hindi"/>
+</p>
+
+- 🇧🇩 **Bengali**: Native 
+- 🇬🇧 **English**: Professional Working Proficiency (Fluent)
+- 🇮🇳 **Hindi**: Conversational Proficiency (Intermediate)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
