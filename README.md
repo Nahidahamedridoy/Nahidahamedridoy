@@ -30,17 +30,26 @@ Hi, I'm **Nahid Ahamed Ridoy**, a passionate Full-stack Developer specializing i
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Nahidahamedridoy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <!-- GitHub -->
+  <a href="https://github.com/Nahidahamedridoy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/nahid-ahamed-ridoy">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/nahidahamedridoy" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 
-<a href="mailto:nahidahamedridoy@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nahid-ahamed-ridoy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Email --> 
+  <a href="mailto:nahidahamedridoy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
 </p>
 
 ---
