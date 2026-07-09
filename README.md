@@ -1,122 +1,246 @@
 <img src="./banner/github_banner.png" width="100%" />
 
-<h1 align="center">
-  Hi 👋, I'm Nahid Ahamed Ridoy
-</h1>
+<h1 align="center">Hi 👋, I'm Nahid Ahamed Ridoy</h1>
 
 <h3 align="center">
-  🚀 Full-stack Developer | React & Next.js Enthusiast
+🚀 Full Stack Developer | MERN Stack Developer | React & Next.js Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-stack+Developer;MERN+Stack+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Next.js+Developer;Node.js+%7C+Express.js+Developer;MongoDB+Database+Developer;Building+Modern+Web+Applications" />
 </p>
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **Nahid Ahamed Ridoy**, a passionate Full-stack Developer specializing in modern web technologies like React.js, Next.js, and the MERN Stack. I love turning complex ideas into clean, responsive, and user-focused web applications with intuitive UI and scalable architecture.
-
-### 🎯 Currently focusing on:
-- ⚛️ React.js & Next.js
-- 🟢 MERN Stack Development
-- 🎨 Modern UI/UX Design
-- 🚀 Performance Optimization
-- 📚 Learning advanced web technologies
-
----
-
----
-
-## 🗣️ Languages I Speak
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Bengali-Native-E63946?style=for-the-badge" alt="Bengali"/>
-  <img src="https://img.shields.io/badge/English-Fluent-1D3557?style=for-the-badge" alt="English"/>
-  <img src="https://img.shields.io/badge/Hindi-Conversational-457B9D?style=for-the-badge" alt="Hindi"/>
-</p>
-
-- **Bengali:** Native
-- **English:** Professional Working Proficiency (Fluent)
-- **Hindi:** Conversational Proficiency (Intermediate)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <!-- GitHub -->
-  <a href="https://github.com/Nahidahamedridoy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <!-- Discord -->
-  <a href="https://discord.com/users/nahidahamedridoy" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/nahid-ahamed-ridoy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <!-- Email --> 
-  <a href="mailto:nahidahamedridoy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-</p>
-
----
-
-# 🛠️ Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
+
+<img src="https://komarev.com/ghpvc/?username=Nahidahamedridoy&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Nahidahamedridoy?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Nahidahamedridoy?style=for-the-badge"/>
+
 </p>
 
 ---
 
+# 👨‍💻 About Me
+
+I'm **Nahid Ahamed Ridoy**, a passionate **Full Stack Developer** and Computer Science student with a strong interest in building modern, scalable, and user-friendly web applications.
+
+I enjoy transforming ideas into real-world digital products using clean code, responsive interfaces, and efficient backend architecture.
+
+I have hands-on experience with modern web technologies including **React.js, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS**, and REST APIs.
+
+My goal is to build impactful software, continuously improve my technical skills, and contribute to meaningful real-world projects.
+
+---
+
+# 🚀 Currently Working On
+
+- 🔭 Building Full Stack Web Applications
+- 🌱 Exploring Next.js & Backend Architecture
+- ⚡ Improving Problem Solving Skills
+- 💻 Learning Advanced MERN Stack Concepts
+- 🚀 Building Scalable Applications
+- 📚 Practicing Clean Code & Best Practices
+
+---
+
+# 🌍 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇧🇩 Bengali | Native |
+| 🇬🇧 English | Professional Working |
+| 🇮🇳 Hindi | Conversational |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:nahidahamedridoy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nahidahamedridoy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nahid-ahamed-ridoy">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel"/>
+
+</p>
+
+---
 # 🚀 Featured Projects
 
-## 🏠 Property Rental & Booking Platform
-Full-stack rental platform where users can explore properties, book rooms, and manage listings.
+## 🏠 RentNest – Property Rental & Booking Platform
+
+A modern **Full Stack Property Rental & Booking Platform** where tenants can browse and book properties, owners can manage listings, and administrators can control the platform through dedicated dashboards.
+
+### ✨ Key Features
+
+- 🔐 Secure Authentication & Authorization
+- 👤 Role-Based Dashboard (Admin, Owner & Tenant)
+- 🏠 Property Management
+- 📅 Online Property Booking
+- 💳 Stripe Payment Integration
+- ❤️ Wishlist / Favorites
+- 📱 Fully Responsive Design
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind" />
+</p>
+
+### 🌐 Live Demo
+
+👉 https://a10-rent-nest.vercel.app
+
+---
+
+# 💼 My Projects
+
+## 🏡 RentNest
+
+**Live:** https://a10-rent-nest.vercel.app
+
+A feature-rich property rental platform built with the MERN Stack.
+
+### Features
+
+- Property Listing & Search
+- Authentication System
+- Role-Based Dashboard
+- Property Booking
+- Stripe Payment
+- Favorites Management
+- Responsive UI
 
 **Tech Stack**
-- Next.js | React | Tailwind CSS | Node.js | Express.js | MongoDB
+
+React • Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • Stripe
 
 ---
 
-## 🚀 My Projects
+## 📚 StudyNook
 
----
+**Live:** https://a9-study-nook-client.vercel.app
 
-### 🏡 [RentNest (Fullstack)](https://a10-rent-nest.vercel.app)
-- **Features:** Property listings, User/Landlord authentication, Renting system, Admin Dashboard
-- **Tech Stack:** React | Node.js | Express | MongoDB
+A study room booking platform that allows students to discover, reserve, and manage study rooms efficiently.
 
-### 📚 [StudyNook](https://a9-study-nook-client.vercel.app)
-- **Features:** Room listing, Search & filtering, Booking system, Authentication, Dashboard management
-- **Tech Stack:** React | Node.js | Express | MongoDB | JWT
+### Features
+
+- Secure Login & Registration
+- Study Room Booking
+- Search & Filtering
+- Dashboard Management
+- JWT Authentication
+- Responsive Design
+
+**Tech Stack**
+
+React • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
 
 ---
 
 ### 🛒 [SummerCart](https://a8-sun-cart.vercel.app)
-- **Features:** Product browsing, User authentication, Shopping experience, Profile management
-- **Tech Stack:** React | Tailwind CSS
 
+A responsive e-commerce web application that provides a smooth online shopping experience.
+
+**Key Features**
+- Product Browsing
+- Product Details
+- User Authentication
+- Responsive Design
+- Smooth Shopping Experience
+
+**Tech Stack**
+
+React • JavaScript • Tailwind CSS • Firebase
+
+---
 
 ## 🌐 Portfolio Website
-My personal developer portfolio showcasing my skills, projects and experience.
 
+A modern portfolio website showcasing my skills, projects, and experience as a Full Stack Developer.
+
+**Key Features**
+
+- Responsive Design
+- Project Showcase
+- Skills Section
+- Contact Form
+- Smooth Animations
+
+**Tech Stack**
+
+React • Next.js • Tailwind CSS • Framer Motion
+
+🔗 **Live Demo:** `https://protfolio-delta-nine.vercel.app`
+
+---
+
+---
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nahidahamedridoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidahamedridoy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Nahidahamedridoy&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Nahidahamedridoy&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nahidahamedridoy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
@@ -124,37 +248,141 @@ My personal developer portfolio showcasing my skills, projects and experience.
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahidahamedridoy&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📊 GITHUB STATISTICS & ANALYSIS:
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nahidahamedridoy/Nahidahamedridoy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+<img src="https://raw.githubusercontent.com/Nahidahamedridoy/Nahidahamedridoy/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-# 💬 Developer Quote
+# ⏰ Coding Activity
 
 <p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nahidahamedridoy&theme=tokyonight"/>
+
+</p>
+
+> **Note:** WakaTime card will only display data if you use WakaTime. If you don't use it, you can remove this section.
+
+---
+
+# 📈 Contribution Overview
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahidahamedridoy&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nahidahamedridoy&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nahidahamedridoy&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nahidahamedridoy&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nahidahamedridoy&theme=tokyonight&utcOffset=6"/>
+
+</p>
+
+---
+# 💬 Random Developer Quote
+
+<p align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 👀 Profile Views
+# 📫 Contact Me
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nahidahamedridoy&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
+
+<a href="mailto:nahidahamedridoy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nahid-ahamed-ridoy">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nahidahamedridoy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 📫 Let's Build Something Amazing Together
+# 📧 Reach Me
+
+- 📧 **Email:** nahidahamedridoy@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nahid-ahamed-ridoy
+- 💻 **GitHub:** https://github.com/Nahidahamedridoy
+- 📍 **Location:** Bangladesh
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always open to:
+
+- 🚀 Full Stack Web Development Projects
+- 💼 Internship Opportunities
+- 🌱 Open Source Contributions
+- 🤝 Collaboration on Innovative Ideas
+- 💬 Tech Discussions
+
+If you have an exciting project or opportunity, feel free to connect with me!
+
+---
+
+# 💖 Support My Work
+
+If you like my projects, consider giving them a ⭐.
+
+It motivates me to build more amazing applications and contribute to the developer community.
+
+---
+
+# ⚡ Fun Fact
+
+> "First, solve the problem. Then, write the code." — John Johnson
+
+---
 
 <p align="center">
-⭐ From <b>Nahid Ahamed Ridoy</b>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=footer"/>
+
+</p>
+
+<h3 align="center">
+
+Thanks for visiting my GitHub Profile ❤️
+
+</h3>
+
+<p align="center">
+
+⭐ If you like my work, don't forget to star my repositories.
+
 </p>
