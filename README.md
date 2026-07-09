@@ -63,24 +63,24 @@ Full-stack rental platform where users can explore properties, book rooms, and m
 
 ---
 
-## 📚 StudyNook
-A complete study room booking platform.
+## 🚀 My Projects
+
+---
+
+### 🏡 [RentNest (Fullstack)](https://a10-rent-nest.vercel.app)
+- **Features:** Property listings, User/Landlord authentication, Renting system, Admin Dashboard
+- **Tech Stack:** React | Node.js | Express | MongoDB
+
+### 📚 [StudyNook](https://a9-study-nook-client.vercel.app)
 - **Features:** Room listing, Search & filtering, Booking system, Authentication, Dashboard management
 - **Tech Stack:** React | Node.js | Express | MongoDB | JWT
 
 ---
 
-## 💼 HireLoop
-A job and recruitment platform connecting companies and candidates.
-- **Features:** Job posting, Company profiles, Recruiter dashboard, Candidate management
-
----
-
-## 🛒 SummerCart
-An e-commerce platform for summer essentials.
+### 🛒 [SummerCart](https://a8-sun-cart.vercel.app)
 - **Features:** Product browsing, User authentication, Shopping experience, Profile management
+- **Tech Stack:** React | Tailwind CSS
 
----
 
 ## 🌐 Portfolio Website
 My personal developer portfolio showcasing my skills, projects and experience.
@@ -90,8 +90,7 @@ My personal developer portfolio showcasing my skills, projects and experience.
 # 📊 GitHub Statistics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nahidahamedridoy&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidahamedridoy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/Nahidahamedridoy/Nahidahamedridoy/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -112,15 +111,7 @@ My personal developer portfolio showcasing my skills, projects and experience.
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nahidahamedridoy&theme=onedark&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
+## 📊 GITHUB STATISTICS & ANALYSIS:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nahidahamedridoy/Nahidahamedridoy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
