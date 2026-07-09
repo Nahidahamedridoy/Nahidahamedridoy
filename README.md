@@ -175,11 +175,14 @@ React • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
 
 ---
 
-### 🛒 [SummerCart](https://a8-sun-cart.vercel.app)
+### 🛒 SummerCart
+
+🌐 **Live:** https://a8-sun-cart.vercel.app
 
 A responsive e-commerce web application that provides a smooth online shopping experience.
 
 **Key Features**
+
 - Product Browsing
 - Product Details
 - User Authentication
@@ -194,21 +197,24 @@ React • JavaScript • Tailwind CSS • Firebase
 
 ## 🌐 Portfolio Website
 
-A modern portfolio website showcasing my skills, projects, and experience as a Full Stack Developer.
+A modern and responsive portfolio website showcasing my projects, technical skills, experience, and achievements as a Full Stack Developer.
 
-**Key Features**
+### ✨ Key Features
 
 - Responsive Design
+- Modern UI/UX
 - Project Showcase
-- Skills Section
+- Skills & Technologies
 - Contact Form
 - Smooth Animations
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 React • Next.js • Tailwind CSS • Framer Motion
 
-🔗 **Live Demo:** `https://protfolio-delta-nine.vercel.app`
+### 🔗 Live Website
+
+👉 **https://protfolio-delta-nine.vercel.app**
 
 ---
 
@@ -216,11 +222,8 @@ React • Next.js • Tailwind CSS • Framer Motion
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nahidahamedridoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidahamedridoy&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nahidahamedridoy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidahamedridoy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -228,9 +231,7 @@ React • Next.js • Tailwind CSS • Framer Motion
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nahidahamedridoy&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Nahidahamedridoy&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
