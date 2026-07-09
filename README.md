@@ -219,14 +219,6 @@ React • Next.js • Tailwind CSS • Framer Motion
 ---
 
 ---
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nahidahamedridoy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidahamedridoy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -236,15 +228,6 @@ React • Next.js • Tailwind CSS • Framer Motion
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nahidahamedridoy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
