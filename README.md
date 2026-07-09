@@ -1,162 +1,141 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Nahid Ahamed Ridoy Banner" width="100%">
-</p>
+<!--- banner --->
+<img src="https://github.com/user-attachments/assets/14f261a6-47bd-4d9c-96ff-661a09a8aeb1" alt="Nahid Ahamed Ridoy Banner">
 
-<h1 align="center">Hi 👋, I'm Nahid Ahamed Ridoy</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Passionate About Building Modern Web Applications</h3>
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-</p>
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nahid Ahamed Ridoy</h1></summary>
 
----
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;React+%7C+Next.js+Enthusiast;Passionate+UI%2FUX+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</a>
 
-# 👋 About Me
+  </ul>
+</div>
 
-- 💻 I'm currently building **Modern MERN Stack Applications**
-- ⚛️ Working with **React.js, Next.js, Tailwind CSS & HeroUI**
-- 🌱 Currently learning **Node.js, Express.js, MongoDB & Advanced Next.js**
-- 🚀 Passionate about **Frontend Development & UI/UX**
-- 💬 Ask me about **React, Next.js, JavaScript, Tailwind CSS & MERN Stack**
-- 🎯 Goal: Become a Professional **Full Stack Developer**
-- 📫 Reach me at **nahidahamedridoy@gmail.com**
+<br/>
 
----
+<!--- about --->
+- 👋 Hi, I'm **[@RidoyAhamed](https://github.com/RidoyAhamed)**
+- 💻 Currently building **React.js, Next.js, TypeScript & Tailwind CSS** applications.
+- ⚙️ Working with **Node.js, Express.js, MongoDB & Firebase** to build full-stack web applications.
+- 🌱 Currently learning **Advanced Next.js, Redux, Prisma, Docker & PostgreSQL**.
+- 💬 Ask me about **React, Next.js, JavaScript, Tailwind CSS & MERN Stack**.
+- 🚀 I enjoy creating **modern, responsive and user-friendly web applications**.
+- 🌐 Explore my **Portfolio** *(Add your portfolio link here)* and my **Resume** *(Add your resume link here)*.
+- 📫 Reach me anytime at **nahidahamedridoy@gmail.com**
 
-# 🌐 Portfolio & Socials
+<br/>
 
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME</b>
+
+<div>
 <p align="left">
 
 <a href="https://linkedin.com/in/nahid-ahamed-ridoy-0b78803a4">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="40">
 </a>
 
 <a href="https://facebook.com/ridoy.ahmed.723202">
-<img src="https://skillicons.dev/icons?i=facebook" />
+<img src="https://skillicons.dev/icons?i=facebook" width="40">
 </a>
 
 <a href="mailto:nahidahamedridoy@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="40">
 </a>
 
 </p>
+</div>
 
----
+<br/>
 
-# 💻 Technology Stack
+<!--- technology --->
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK</b>
 
-### 🚀 Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://github.com/RidoyAhamed)
 
-### 🎨 Frontend
+### CSS Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
+[![CSS](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/RidoyAhamed)
 
-### ⚙️ Backend
+### JavaScript Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express)](https://github.com/RidoyAhamed)
 
-### 🛠️ Tools
+### Database & Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
-</p>
+[![Database](https://skillicons.dev/icons?i=mongodb,firebase)](https://github.com/RidoyAhamed)
 
----
+### Deployment Platforms
 
-# 🚀 Featured Projects
+[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/RidoyAhamed)
 
-### 🏠 Property Rental & Booking Platform
+### Design & Graphics
 
-A modern full-stack Property Rental application built with **Next.js, MongoDB and Express.js**
+[![Design](https://skillicons.dev/icons?i=figma,photoshop)](https://github.com/RidoyAhamed)
 
-### 📚 StudyNook
+### Tools & Technologies
 
-A Full Stack Study Room Booking platform with secure authentication and booking management.
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,npm)](https://github.com/RidoyAhamed)
 
-### 🛍️ SummerCart
+<br/>
 
-Modern Ecommerce Application built using React.
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS</b>
 
----
+### GitHub Contributions
 
-# 📊 GitHub Statistics
+![Snake Grid](https://github.com/RidoyAhamed/RidoyAhamed/blob/output/grid.svg)
 
-<p align="center">
+### GitHub Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=RidoyAhamed&theme=tokyonight&hide_border=true&show_icons=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoyAhamed&theme=tokyonight&hide_border=true&layout=compact" /> |
+| ------------- | ------------- |
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+### Repository Stats & Streak
 
-</p>
+| <img align="center" src="https://github-contributor-stats.vercel.app/api?username=RidoyAhamed&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" /> | <img align="center" src="https://streak-stats.demolab.com/?user=RidoyAhamed&theme=tokyonight&hide_border=true" /> |
+| ------------- | ------------- |
 
-<p align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+<!--- activity graph --->
+## 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoyAhamed&theme=tokyo-night&hide_border=true"/>
 </p>
+
+<br/>
+
+<!--- trophies --->
+## 🏆 GITHUB TROPHIES
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RidoyAhamed&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+<br/>
+
+<!--- random quote --->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE</b>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10"/>
-
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ☕ Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-
+<!--- visitor counter --->
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=RidoyAhamed&label=Profile%20Views&color=0e75b6&style=flat" alt="RidoyAhamed" />
 </p>
 
 ---
 
 <h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
+⭐ Thanks for visiting my GitHub Profile ⭐
 </h3>
